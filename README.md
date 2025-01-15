@@ -1,5 +1,5 @@
 # Sistema-Michela-Teoria-Plover
-Teoria stenografica e dizionari sistema Michela conflict free per software open source "Plover2
+Teoria stenografica e dizionari sistema Michela conflict free per software open source "Plover"
 
 DESCRIZIONE
 La presente teoria stenografica ed i relativi dizionari sono stati ideati per essere utilizzati con la Macchina Michela ed il software open source "Plover".
